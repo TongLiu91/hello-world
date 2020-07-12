@@ -4,3 +4,4 @@ git commit -m "message"
 git push origin <branch>
 git branch -D <branch>  (needs to be on a diff branch locally, this deletes the local branch)
 git push origin :<branch> (delets the remote branch)
+git pull origin
